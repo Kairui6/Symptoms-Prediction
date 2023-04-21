@@ -1,1 +1,1 @@
-# symptom predict intern
+# symptoms predicting intern
