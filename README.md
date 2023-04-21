@@ -1,1 +1,1 @@
-# internship
+# symptom predict intern
